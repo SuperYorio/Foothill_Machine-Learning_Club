@@ -3,8 +3,9 @@ Instructions on Environmental Set-up
 2. Open Terminal
 3. Check pip version by entering in: pip3 --versions
 4. If you have pip installed, skip this step; otherwise, enter in your terminal:
-a. curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
-b. python3 get-pip.py
+   - curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+   and then:
+   - python3 get-pip.py
 5. If you skipped step #4, enter in you terminal: pip3 install --upgrade pip
 6. Now, it is time to install the packages we will be using for our workshops! In terminal,
 enter:
