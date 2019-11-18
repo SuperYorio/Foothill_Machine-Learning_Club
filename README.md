@@ -14,4 +14,4 @@ Meeting Log
 - 10/29/2019 Tuesday 12PM RM.4301: 02 Environment Set-up & Intro to Numpy
 - 11/05/2019 Tuesday 12PM RM.4301: 03 Linear Regressions and Gradient Descents (GD)
 - 11/12/2019 Tuesday 12PM RM.4301: 04 Polynomial Regressions & GD Implementation
-- 11/21/2019 Thurs.  12PM RM.4301: 05 Logistic Regression
+- 11/26/2019 Tuesday 12PM RM.4301: 05 Data Visualization with Matplotlib
