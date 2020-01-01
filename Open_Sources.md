@@ -18,9 +18,9 @@ open_source is "Free"
 4. Kaggle: They have a LOT of datasets that you can practice on, and you can also discuss and learn from other
    ML'ers on their public forums! A very useful website to challenge your abilities in applying ML Algorithms.
 
+5. Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: This is my FAVORITE book of all times.
+   The author, Geron, was able to combine both the mathematical and theoretical portion with the application
+   seamlessly. Good news: this book is now available to read for free on O'Reilly; follow the #3. and search
+   for the title and you should have access to it!
+
 I will continue to update the list as time moves on :)
-The only non-free resource that I can whole-heartedly recommend: "Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow"
-by Aurelien Geron. This book covers the basics of ML to the core of neural networks. If you could master even
-75% of the content, I feel like you could drop out and have a great career in data science (just an opinion don't follow it haha).
-** Remember to purchase the 2nd version of the book! The first version is for TensorFlow v1. but TensorFlow v2. just got released
-this year!!
