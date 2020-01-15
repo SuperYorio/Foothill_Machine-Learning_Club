@@ -4,7 +4,7 @@ Hello!
 
 Thank you so much for coming to the meetings! This is where I will be posting lecture notes, codes, and solutions to different problems! If you have any questions, feel free to email me at Foothill.mlds@gmail.com.
 
-Lectures and workshops will generally be held on Tuesdays 12PM (specific dates TBD) at RM.4301 during the Fall Quarter.
+Lectures and workshops times for Winter 2020 are still being decided, and we will update you as soon as a decision is made :)
 Thank you so much!
 
 ~ Yorick
