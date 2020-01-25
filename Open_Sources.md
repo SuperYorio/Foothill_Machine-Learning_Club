@@ -1,14 +1,12 @@
 Hello!
 These are some of my favorite open sources to self-learn Machine Learning & Data Science!
-Good luck on your path to become a master data scientist ;)
-
-open_source is "Free"
->> True
+Good luck on your path to become a master in data scientist ;)
 
 1. Andrew Ng Machine Learning Courses (Coursera): https://www.coursera.org/learn/machine-learning
-	This is by far the most popular source to learn ML as it goes through the theories and the applications
+	This is by far the most popular and my favorite online source to learn ML as it goes through the theories and the applications! It is also available on YouTube!
 
 2. Andrew Ng Deep Learning (YouTube): https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
+   The class, in my opinion and also my favorite, focuses more on applications and techniques as oppose to the theoretical and mathematical knowledge. I also highly recommend this class to anyone who is interested in Deep Learning!
 
 3. O'Reilly Media: As Foothill students, the college subscribes to many journals and medias so we can have
    free access to them. Go to "Foothill Library" on the Foothill College website > "Articles & Databases" > 
