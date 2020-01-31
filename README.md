@@ -15,3 +15,4 @@ Thank you so much!
 - 11/12/2019 Tuesday 12PM RM.4301: 04 Polynomial Regressions & GD Implementation
 - 11/26/2019 Tuesday 12PM RM.4301: 05 Data Visualization with Matplotlib
 - 01/27/2020 Monday   2PM RM.6301: 06 Review, Open-Sources, & Introductions
+- 02/03/2020 Monday   2PM RM.6301: 07 Logistic Regression & Binary Classification
