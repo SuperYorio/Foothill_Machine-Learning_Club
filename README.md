@@ -20,3 +20,4 @@ Note: All images and graphs are tkaen from Andrew Ng's Deep Learning Course on Y
 - 02/03/2020 Monday   2PM RM.6301: 07 Logistic Regression & Binary Classification
 - 02/10/2020 Monday   2PM RM.6301: 08 Applying Logistic Regression to Breast Cancer Patients
 - 02/17/2020 Monday   2PM PRESIDENTIAL DAY NO MEETING :)
+- 02/24/2020 Monday   2PM RM.6301: 09 Midterm Flex Day: Reviewing Matplotlib and Logistic Regression
