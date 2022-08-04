@@ -9,18 +9,3 @@ Thank you so much!
 Note: All images and graphs are tkaen from Andrew Ng's Deep Learning Course on YouTube and/or Arelion Geron's fantastic book: Hands-On Machine Learning with Scikit-Learn, Keras, & TensorFlow
 
 ~ Yorick
-
-### Meeting Log
-- 10/22/2019 Tuesday 12PM RM.4301: 01 Introductions
-- 10/29/2019 Tuesday 12PM RM.4301: 02 Environment Set-up & Intro to Numpy
-- 11/05/2019 Tuesday 12PM RM.4301: 03 Linear Regressions and Gradient Descents (GD)
-- 11/12/2019 Tuesday 12PM RM.4301: 04 Polynomial Regressions & GD Implementation
-- 11/26/2019 Tuesday 12PM RM.4301: 05 Data Visualization with Matplotlib
-- 01/27/2020 Monday   2PM RM.6301: 06 Review, Open-Sources, & Introductions
-- 02/03/2020 Monday   2PM RM.6301: 07 Logistic Regression & Binary Classification
-- 02/10/2020 Monday   2PM RM.6301: 08 Applying Logistic Regression to Breast Cancer Patients
-- 02/17/2020 Monday   2PM PRESIDENTIAL DAY NO MEETING :)
-- 02/24/2020 Monday   2PM RM.6301: 09 Midterm Flex Day: Reviewing Matplotlib and Logistic Regression
-- 03/02/2020 Monday   2PM RM.6301: 10 Mutli-Class Classification
-- 03/09/2020 Monday   2PM RM.6301: 11 Hand-written Digits Classifier
-- 03/16/2020 Monday   2PM FINALS DEAD WEEK NO MEETING :)
